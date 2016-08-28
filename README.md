@@ -3,6 +3,8 @@
 
 Project work for Udacity Nanodegree for Chris Anatalio: [Udacity Profile](https://profiles.udacity.com/u/chrisanatalio)
 
+Project completed and accepted 8/26/2016:  https://review.udacity.com/#!/reviews/215182
+
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:

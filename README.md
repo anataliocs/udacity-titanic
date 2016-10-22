@@ -1,7 +1,7 @@
 # Project 0: Introduction and Fundamentals
 ## Titanic Survival Exploration
 
-Project work for Udacity Nanodegree for Chris Anatalio: [Udacity Profile](https://profiles.udacity.com/u/chrisanatalio)
+Project work for Machine Learning Udacity Nanodegree for Chris Anatalio: [Udacity Profile](https://profiles.udacity.com/u/chrisanatalio)
 
 Project completed and accepted 8/26/2016:  https://review.udacity.com/#!/reviews/215182
 
